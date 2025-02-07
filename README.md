@@ -26,7 +26,7 @@ ClockOut lets you easily schedule a shutdown without needing a teriminal, so you
 
 | you can schedule a shutdown for the next day... | ...or basically any future date and time |
 | --- | --- |
-| ![](https://github.com/user-attachments/assets/c83f2f38-f8b6-4a57-a926-7eefc7829bea)| ![](https://github.com/user-attachments/assets/911cf250-fb7c-42d4-8872-490dcb63b12e)|
+| ![Bildschirmfoto vom 2025-02-07 21-28-01](https://github.com/user-attachments/assets/1cb420bd-b302-4c18-a416-cee1f953a2a4)| ![](https://github.com/user-attachments/assets/911cf250-fb7c-42d4-8872-490dcb63b12e)|
 <br/>
 
 |   | You think the GUI is bloated? Try out "Mini ClockOut" which has been reduced to the essential GUI elements while maintaining the same functionality |   |
