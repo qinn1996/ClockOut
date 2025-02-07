@@ -12,33 +12,44 @@ ClockOut lets you easily schedule a shutdown without needing a terminal, so your
 | either enter your desired time (24hr format)... | ...a duration in minutes... |  ...or even in hours (HH:MM) | 
 | --- | --- | --- |
 |![](https://github.com/user-attachments/assets/47c84e4c-61f0-4f35-a91a-4483758e4ede)|![](https://github.com/user-attachments/assets/b332ea48-9b80-4acc-86f6-63f9dfc6c698)|![](https://github.com/user-attachments/assets/35f286eb-f573-457a-9442-88b3c89ba7ee)|
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 | adapts to dark... | ...and light themes|
 | --- | --- |
 | ![](https://github.com/user-attachments/assets/47c84e4c-61f0-4f35-a91a-4483758e4ede) | ![](https://github.com/user-attachments/assets/750c0859-d10c-4e23-862b-7f17c865425e)
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 |   | The progress bar visually indicates the approaching shutdown at one glance |   |
 | --- | :---: | --- |
 |____________________|![](https://github.com/user-attachments/assets/a8d801fd-7d38-4db5-af96-8f00d8f13252)|____________________|
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 | you can schedule a shutdown for the next day... | ...or basically any future date and time |
 | --- | --- |
 | ![Bildschirmfoto vom 2025-02-07 21-28-01](https://github.com/user-attachments/assets/1cb420bd-b302-4c18-a416-cee1f953a2a4)| ![](https://github.com/user-attachments/assets/911cf250-fb7c-42d4-8872-490dcb63b12e)|
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 |   | You think the GUI is bloated? Try out "Mini ClockOut" which has been reduced to the essential GUI elements while maintaining the same functionality |   |
 | --- | :---: | --- |
 |____________________|![](https://github.com/user-attachments/assets/69f424f0-0648-4fb6-a27e-2d46702f1421)|____________________|
-<br/><br/>
-
+<br/>
+<br/>
+<br/>
 
 | available in three versions: <br/> English (US), German and English (EU) |
 | :---: |
 |![](https://github.com/user-attachments/assets/a361527f-4a5b-48ad-a51b-de587a938914)|
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 **Installation:**
 <br/><br/>
