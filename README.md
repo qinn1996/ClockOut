@@ -14,7 +14,7 @@ ClockOut lets you easily schedule a shutdown without needing a terminal, so your
 |![](https://github.com/user-attachments/assets/47c84e4c-61f0-4f35-a91a-4483758e4ede)|![](https://github.com/user-attachments/assets/b332ea48-9b80-4acc-86f6-63f9dfc6c698)|![](https://github.com/user-attachments/assets/35f286eb-f573-457a-9442-88b3c89ba7ee)|
 <br/>
 
-| adapting to dark... | ...and light mode|
+| adapts to dark... | ...and light themes|
 | --- | --- |
 | ![](https://github.com/user-attachments/assets/47c84e4c-61f0-4f35-a91a-4483758e4ede) | ![](https://github.com/user-attachments/assets/750c0859-d10c-4e23-862b-7f17c865425e)
 <br/>
@@ -43,7 +43,7 @@ ClockOut lets you easily schedule a shutdown without needing a terminal, so your
 **Installation:**
 <br/><br/>
 ✅ Simply download your desired version (normal or mini version of your preffered language variant) and extract the archive to your home directory.<br/><br/>
-✅ Execute the *install.sh* file found within the *ClockOut* folder to add *ClockOut* to your app menu -it can then be found under "utilities".<br/>❗*Note: when you execute *install.sh* without using the terminal (`sh install.sh`) , you do not receive a confirmation that anything has happened, but the app will be installed instantly.* <br/><br/>
+✅ Execute the *install.sh* file found within the *ClockOut* folder to add *ClockOut* to your app menu -it can then be found under "utilities".<br/>❗*Note: when you execute *install.sh* without using the terminal (`sh install.sh`), you do not receive a confirmation that anything has happened, but the app will be installed instantly.* <br/><br/>
 ✅ launch *ClockOut* from your app menu and happy scheduling!
 <br/>
 <br/>
