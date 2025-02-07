@@ -3,7 +3,7 @@
 
 
 Ever downloaded a large game or copied big chunks of data and you didn't want to let your PC run the whole night when the task would be complete in 3 hours? <br/><br/>
-ClockOut lets you easily schedule a shutdown without needing a teriminal, so your PC automatically powers off when it's no longer needed.
+ClockOut lets you easily schedule a shutdown without needing a terminal, so your PC automatically powers off when it's no longer needed.
 
 
 
