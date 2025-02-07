@@ -154,6 +154,7 @@ class ShutdownApp(Gtk.Window):
         
         # Icon Credit in einer Zeile
         icon_credit_box = Gtk.Box(spacing=5)
+        icon_credit_box.set_halign(Gtk.Align.CENTER)
         icon_label = Gtk.Label(label="Eingabe-Symbol von")
         link_label = Gtk.Label()
         link_label.set_markup('<a href="https://icons8.com/" title="besuche icons8.com">icons8</a>')
