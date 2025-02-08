@@ -53,7 +53,7 @@ ClockOut lets you easily schedule a shutdown without needing a terminal, so your
 
 **Installation:**
 <br/><br/>
-✅ Simply download your desired version (normal or mini version of your preffered language variant) and extract the archive to your home directory.<br/><br/>
+✅ Simply download your desired version (normal or mini version of your preferred language variant) and extract the archive to your home directory.<br/><br/>
 ✅ Execute the *install.sh* file found within the *ClockOut* folder to add *ClockOut* to your app menu -it can then be found under "utilities".<br/>❗*Note: when you execute *install.sh* without using the terminal (`sh install.sh`), you do not receive a confirmation that anything has happened, but the app will be installed instantly.* <br/><br/>
 ✅ launch *ClockOut* from your app menu and happy scheduling!
 <br/>
